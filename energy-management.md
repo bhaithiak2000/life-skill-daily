@@ -31,7 +31,7 @@
 
 ---
 
-## Question 4: Paraphrase the Sleep is your Superpower video in your own words in brief 
+## Question 4: Paraphrase the Sleep is your Superpower video in your own words in brief. 
 - Sleep improves memory and learning  
 - Sleep restores brain and body health  
 - Lack of sleep affects mood and emotions  
